@@ -64,7 +64,6 @@
             this.canvas.Size = new System.Drawing.Size(1123, 734);
             this.canvas.TabIndex = 1;
             this.canvas.Click += new System.EventHandler(this.canvas_Click);
-            this.canvas.Paint += new System.Windows.Forms.PaintEventHandler(this.canvas_Paint);
             // 
             // MainForm
             // 
